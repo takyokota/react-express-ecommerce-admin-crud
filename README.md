@@ -1,14 +1,14 @@
 # React Express E-Commerce Admin Page with CRUD
 
 ## Table of Contents
----
+
 - [Overview](#overview)
 - [Built with](#built-with)
 - [Features](#features)
 - [Things To Be Improved](#things-to-be-improved)
 
 ## Overview
----
+
 ![main page](./main_page.png)
 ![admin page](./admin_page.png)
 ![add product page](./add_product_page.png)
@@ -32,11 +32,11 @@ Passing a image file with other string variables to backend took me a white to f
 - [PostgreSQL](https://www.postgresql.org/)
 
 ## Features
----
+
 Anyone can manage the product list without any technical knowledge
 
 ## Things To Be Improved
-----
+
 1. Using authentication to access the admin page
 2. Adding 'sort by' on the product list page (main page) so that customers can sort by price or latest added
 
