@@ -1,0 +1,33 @@
+.card:hover {
+    box-shadow: 0 3px 10px rgb(110, 105, 105)
+}
+
+.image-main {
+    width: 100%;
+    height: 25vw;
+    object-fit: cover;
+}
+
+.image-admin {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.image-update {
+    width: 200px;
+    height: auto;
+    object-fit: cover;
+}
+
+@media screen and (max-width: 400px) {
+    body {
+        background: black;
+    }
+
+    .image-main {
+        width: 100%;
+        height: 50vw;
+        object-fit: cover;
+    }
+}
